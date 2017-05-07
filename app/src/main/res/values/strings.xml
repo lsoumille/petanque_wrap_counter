@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">petanque_wrap_counter</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="bNewGame">New Game</string>
+    <string name="bContinueGame">Continue</string>
+    <string name="title_activity_game">GameActivity</string>
+</resources>
